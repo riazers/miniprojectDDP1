@@ -5,7 +5,7 @@
 ## 2. Output:
 <img width="1141" height="322" alt="image" src="https://github.com/user-attachments/assets/9688c1a9-b64c-4fa1-adc5-0367ae0ff1fb" />
 
-Penjelasan Ooutput:
+Penjelasan Output:
 
 <START>
   
