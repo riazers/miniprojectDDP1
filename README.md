@@ -12,7 +12,7 @@ Penjelasan Output:
 1. Input Genre Musik apa yang ingin diputar.
 2. Jika input tidak benar, maka program/sistem akan berhenti. pengguna akan diminta untuk memasukkan input yang benar.
 3. Sistem otomatis akan memutar genre yang dipilih.
-4. Pilihan untuk Menambah lagu akan muncul (Ya/Tidak)
+4. Pilihan untuk menambah lagu akan muncul (Ya/Tidak)
 Jika ya maka silahkan meng input lagu yang ingin dihapus,
 sistem akan membuat playlist baru.
 jika tidak maka playlist lagu tidak akan berubah.
