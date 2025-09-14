@@ -15,7 +15,7 @@ Penjelasan Output:
 4. Pilihan untuk menambah lagu akan muncul (Ya/Tidak)
 Jika ya maka silahkan meng input lagu yang ingin dihapus,
 sistem akan membuat playlist baru.
-jika tidak maka playlist lagu tidak akan bertambah.
+Jika tidak maka playlist lagu tidak akan bertambah.
 5. Pilihan untuk menghapus lagu akan muncul (Ya/Tidak)
 Jika ya maka silahkan meng input lagu yang ingin dihapus,
 sistem akan membuat playlist baru.
