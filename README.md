@@ -20,5 +20,5 @@
 <img width="946" height="194" alt="image" src="https://github.com/user-attachments/assets/1afe73df-b375-46be-a171-83419e322f01" />
 
 
-## Output:
-<img width="1141" height="322" alt="image" src="https://github.com/user-attachments/assets/9688c1a9-b64c-4fa1-adc5-0367ae0ff1fb" />
+## Keseluruhan Output:
+<img width="1027" height="490" alt="image" src="https://github.com/user-attachments/assets/f44e90fd-e2bb-466c-9954-6fddd86b7316" />
