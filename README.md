@@ -1,7 +1,10 @@
 # miniprojectDDP1
-#### Nama : Riaz Ramadhan Al Fattah
-#### NIM : 2509116106
-#### Kelas : C
+
+Nama : Riaz Ramadhan Al Fattah
+
+NIM : 2509116106
+
+Kelas : C
 ## 1. Flowchart:
 <img width="2341" height="961" alt="MINPRO 1 drawio" src="https://github.com/user-attachments/assets/2d5e1420-3687-468d-8d59-46791d40080d" />
 
