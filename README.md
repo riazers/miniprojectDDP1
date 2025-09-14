@@ -9,13 +9,14 @@ Penjelasan Output:
 
 <START>
   
-1. Input Genre Musik apa yang ingin diputar
-2. Sistem otomatis akan memutar genre yang dipilih
-3. Pilihan untuk Menambah lagu akan muncul (Ya/Tidak)
+1. Input Genre Musik apa yang ingin diputar.
+2. Jika input tidak benar, maka program/sistem akan berhenti. pengguna akan diminta untuk memasukkan input yang benar.
+3. Sistem otomatis akan memutar genre yang dipilih.
+4. Pilihan untuk Menambah lagu akan muncul (Ya/Tidak)
 Jika ya maka silahkan meng input lagu yang ingin dihapus,
 sistem akan membuat playlist baru.
 jika tidak maka playlist lagu tidak akan berubah.
-4. Pilihan untuk menghapus lagu akan muncul (Ya/Tidak)
+5. Pilihan untuk menghapus lagu akan muncul (Ya/Tidak)
 Jika ya maka silahkan meng input lagu yang ingin dihapus,
 sistem akan membuat playlit baru.
 Jika tidak maka playlist lagu tidak akan berubah.
