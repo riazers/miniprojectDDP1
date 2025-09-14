@@ -1,4 +1,7 @@
 # miniprojectDDP1
+Nama : Riaz Ramadhan Al Fattah
+NIM : 2509116106
+Kelas : C
 ## 1. Flowchart:
 <img width="2341" height="961" alt="MINPRO 1 drawio" src="https://github.com/user-attachments/assets/2d5e1420-3687-468d-8d59-46791d40080d" />
 
@@ -22,3 +25,6 @@
 
 ## Keseluruhan Output:
 <img width="1027" height="490" alt="image" src="https://github.com/user-attachments/assets/f44e90fd-e2bb-466c-9954-6fddd86b7316" />
+<img width="957" height="220" alt="image" src="https://github.com/user-attachments/assets/a38f4165-8691-4431-bd20-214a255d2938" />
+<img width="975" height="241" alt="image" src="https://github.com/user-attachments/assets/fc9082b6-d53c-4a97-9877-cf111e0a2cf0" />
+
